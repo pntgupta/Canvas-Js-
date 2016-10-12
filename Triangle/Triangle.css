@@ -1,0 +1,30 @@
+#can1{
+	position: absolute;
+}
+#can2{
+	position: absolute;
+}
+#menu{
+	position: absolute;
+	z-index: 1;
+}
+#menu .resume_btn{
+	background: green;
+	position:absolute;
+	font-size: 20px;
+    border: none;
+}
+#menu .new_btn{
+	background: red;
+	position: absolute;
+	font-size: 20px;
+    border: none;
+}
+#menu .label{
+	position: absolute;
+	font-size: 22px;
+	font-weight: bold;
+}
+.hide{
+	display: none;
+}
